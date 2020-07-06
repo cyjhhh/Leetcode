@@ -1,2 +1,2 @@
 # Leetcode
-在Leetcode上的刷题过程
+用Python3及C++解决Leetcode上题目
